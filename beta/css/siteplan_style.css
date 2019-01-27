@@ -1,0 +1,10 @@
+#gambar_siteplan{
+	background-image: url("../images/siteplan_ukp.jpg");
+	width: 80%; 
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	min-width: 170vh;
+	margin-left: 8%;
+	background-size: cover;
+}

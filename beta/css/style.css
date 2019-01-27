@@ -1,0 +1,65 @@
+body {
+	background-image: url("../images/background2.png");
+	background-position: left center;
+	background-repeat: repeat-y;
+	background-size: 5%;
+}
+.navbar{
+	background-color: rgb(253, 223, 150) !important;
+	position:fixed !important;
+	width: 100%;
+}
+.tujuan{
+	margin-left: 50% !important;
+}
+#gambar{
+ 	background-image: url("../images/background1.png");
+ 	min-height: 100vh;
+ 	width: 100%;
+ 	background-attachment: fixed;
+ 	background-position: center;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	margin-right: 0 !important;
+}
+#header{
+	margin-top: 100px;
+}
+
+.news{
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+.news button{
+	background: transparent;
+	border: 0;
+}
+
+.news button:hover{
+	cursor:pointer;
+}
+
+.news button:active {
+	fill:transparent;
+	background-color:transparent;
+}
+
+.news button:focus {
+	outline:0;
+}
+
+.aktif{
+	border-top: 2px solid orange;
+	border-bottom: 2px solid orange;
+}
+#gambar_siteplan{
+	background-image: url("../images/siteplan_ukp.jpg");
+	width: 100%; 
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	min-width: 170vh;
+	margin-left: 8%;
+	background-size: cover;
+}

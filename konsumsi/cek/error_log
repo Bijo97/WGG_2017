@@ -1,0 +1,25 @@
+[12-May-2017 17:51:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:52:43 Asia/Jakarta] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 33
+[12-May-2017 17:52:43 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:53:12 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:54:14 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:54:49 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:55:41 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:56:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:57:17 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:57:18 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:57:18 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:57:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:57:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:57:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:57:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:57:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:57:20 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:59:32 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/cek.php on line 43
+[12-May-2017 17:59:56 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/index.php on line 43
+[12-May-2017 18:00:41 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/index.php on line 43
+[12-May-2017 18:41:28 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/index.php on line 43
+[12-May-2017 18:46:39 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'wggpetraac'@'localhost' (using password: NO) in /home/wggpetraac/public_html/konsumsi/cek/index.php on line 29
+[12-May-2017 18:46:39 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/wggpetraac/public_html/konsumsi/cek/index.php on line 29
+[12-May-2017 18:46:39 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/index.php on line 39
+[26-May-2017 15:50:40 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wggpetraac/public_html/konsumsi/cek/index.php on line 37

@@ -1,0 +1,15 @@
+[07-Jun-2017 18:27:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/wggpetraac/public_html/adminpanel/process.php on line 3
+[07-Jun-2017 18:28:10 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wggpetraac/public_html/adminpanel/process.php:5) in /home/wggpetraac/public_html/adminpanel/process.php on line 21
+[07-Jun-2017 18:30:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wggpetraac/public_html/adminpanel/process.php:5) in /home/wggpetraac/public_html/adminpanel/process.php on line 21
+[07-Jun-2017 18:31:28 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wggpetraac/public_html/adminpanel/process.php:5) in /home/wggpetraac/public_html/adminpanel/process.php on line 21
+[07-Jun-2017 18:31:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wggpetraac/public_html/adminpanel/process.php:5) in /home/wggpetraac/public_html/adminpanel/process.php on line 21
+[07-Jun-2017 18:33:35 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wggpetraac/public_html/adminpanel/process.php:5) in /home/wggpetraac/public_html/adminpanel/process.php on line 21
+[07-Jun-2017 18:36:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/wggpetraac/public_html/adminpanel/process.php on line 9
+[07-Jun-2017 18:38:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/wggpetraac/public_html/adminpanel/process.php on line 30
+[07-Jun-2017 18:41:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wggpetraac/public_html/adminpanel/process.php:5) in /home/wggpetraac/public_html/adminpanel/process.php on line 23
+[07-Jun-2017 18:43:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wggpetraac/public_html/adminpanel/process.php:5) in /home/wggpetraac/public_html/adminpanel/process.php on line 23
+[07-Jun-2017 18:43:39 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wggpetraac/public_html/adminpanel/process.php:5) in /home/wggpetraac/public_html/adminpanel/process.php on line 23
+[07-Jun-2017 18:48:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/wggpetraac/public_html/adminpanel/process.php on line 32
+[07-Jun-2017 18:50:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wggpetraac/public_html/adminpanel/process.php on line 36
+[07-Jun-2017 18:52:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/wggpetraac/public_html/adminpanel/process.php on line 4
+[07-Jun-2017 18:53:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/wggpetraac/public_html/adminpanel/process.php on line 4

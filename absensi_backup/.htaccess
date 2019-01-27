@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "BAKA NETWORK (LIMITED)"
+AuthUserFile "/home/wggpetraac/.htpasswds/public_html/absensi/passwd"
+require valid-user

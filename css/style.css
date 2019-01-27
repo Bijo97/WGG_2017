@@ -1,0 +1,33 @@
+body {
+	background-image: url("../images/background/background2.png");
+	background-position: left center;
+	background-repeat: repeat-y;
+	background-size: 5%;
+	font-size: 18px;
+}
+.bg-faded{
+	background-color: #FFFFFF !important;
+}
+.parallax { 
+    /* The image used */
+    background-image: url("../images/background/background1.png");
+
+    /* Set a specific height */
+    min-height: 100vh;
+    width: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#news {
+	min-height: 100px;
+}
+.red {
+	color: red !important;
+}
+.title {
+	font-size: 20px;
+}

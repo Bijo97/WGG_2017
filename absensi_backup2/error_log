@@ -1,0 +1,31 @@
+[11-Jan-2017 20:43:01 Asia/Jakarta] PHP Fatal error:  Call to undefined function redirect() in /home/lkmmtd/public_html/absensi/application/controllers/logout.php on line 8
+[11-Jan-2017 20:47:23 Asia/Jakarta] PHP Fatal error:  Call to undefined function redirect() in /home/lkmmtd/public_html/absensi/application/controllers/logout.php on line 8
+[11-Jan-2017 20:51:46 Asia/Jakarta] PHP Fatal error:  Call to undefined function redirect() in /home/lkmmtd/public_html/absensi/application/controllers/logout.php on line 8
+[11-Jan-2017 20:53:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function redirect() in /home/lkmmtd/public_html/absensi/application/controllers/logout.php on line 7
+[12-Jan-2017 14:48:09 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/absensi/check_login.php on line 5
+[12-Jan-2017 14:48:09 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/absensi/check_login.php on line 5
+[12-Jan-2017 14:48:09 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/absensi/check_login.php on line 5
+[12-Jan-2017 14:48:09 Asia/Jakarta] PHP Fatal error:  Call to undefined function alert() in /home/lkmmtd/public_html/absensi/check_login.php on line 9
+[12-Jan-2017 14:49:17 Asia/Jakarta] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/lkmmtd/public_html/absensi/check_login.php on line 2
+[12-Jan-2017 14:49:17 Asia/Jakarta] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lkmmtd/public_html/absensi/check_login.php on line 2
+[12-Jan-2017 14:49:17 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/lkmmtd/public_html/absensi/check_login.php:2) in /home/lkmmtd/public_html/absensi/check_login.php on line 3
+[12-Jan-2017 14:49:17 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'lkmmtd'@'localhost' (using password: NO) in /home/lkmmtd/public_html/absensi/check_login.php on line 6
+[12-Jan-2017 14:49:17 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lkmmtd/public_html/absensi/check_login.php on line 6
+[12-Jan-2017 14:49:17 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/absensi/check_login.php on line 6
+[12-Jan-2017 14:49:17 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/absensi/check_login.php:2) in /home/lkmmtd/public_html/absensi/check_login.php on line 12
+[12-Jan-2017 14:52:07 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/absensi/check_login.php on line 6
+[12-Jan-2017 14:52:07 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lkmmtd/public_html/absensi/check_login.php:6) in /home/lkmmtd/public_html/absensi/check_login.php on line 12
+[12-Jan-2017 14:55:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?>' in /home/lkmmtd/public_html/absensi/application/views/crud_header.php on line 70
+[12-Jan-2017 14:56:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?>' in /home/lkmmtd/public_html/absensi/application/views/crud_header.php on line 70
+[12-Jan-2017 14:58:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?>' in /home/lkmmtd/public_html/absensi/application/views/crud_header.php on line 88
+[12-Jan-2017 17:54:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''hadir'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/lkmmtd/public_html/absensi/application/models/mhs_absensi_model.php on line 26
+[13-Jan-2017 18:53:56 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'lkmmtd'@'203.189.120.27' (using password: YES) in /home/lkmmtd/public_html/absensi/connect.php on line 7
+[13-Jan-2017 18:56:52 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'lkmmtd'@'203.189.120.27' (using password: YES) in /home/lkmmtd/public_html/absensi/connect.php on line 7
+[13-Jan-2017 18:58:01 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'lkmmtd'@'203.189.120.27' (using password: YES) in /home/lkmmtd/public_html/absensi/connect.php on line 7
+[13-Jan-2017 19:09:01 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'lkmmtd'@'203.189.120.27' (using password: YES) in /home/lkmmtd/public_html/absensi/connect.php on line 7
+[13-Jan-2017 19:24:50 Asia/Jakarta] PHP Warning:  mysql_connect(): Unknown MySQL server host 'lkmmm-td.petra.ac.id' (1) in /home/lkmmtd/public_html/absensi/connect.php on line 7
+[13-Jan-2017 19:52:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/lkmmtd/public_html/absensi/query.php on line 6
+[15-Apr-2017 19:40:58 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/absensi/check_login.php on line 6
+[09-May-2017 14:07:41 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/absensi/check_login.php on line 6
+[09-May-2017 14:08:04 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/absensi/check_login.php on line 6
+[19-Jun-2017 22:18:55 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lkmmtd/public_html/absensi/check_login.php on line 6
